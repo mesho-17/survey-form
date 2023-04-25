@@ -1,4 +1,4 @@
-*SURVEY FORM*
+***SURVEY FORM***
 This is a simple survey form that collects user information such as name, age, gender, and feedback. The form is designed to be responsive and user-friendly.
 
 **Getting Started**
@@ -17,15 +17,15 @@ And here is an example of how to link the "simplestyle.css" file to the HTML fil
 Usage
 To use the survey form, simply fill out the required fields and click the "Submit" button. The form will validate the input and display an error message if any required fields are left blank.
 
-DEPENDENCIES
+**DEPENDENCIES**
 This code requires the following files:
 
 surveystyle.css
 simplestyle.css
-Contributing
+**CONTRIBUTING**
 If you would like to contribute to this project, please fork the repository and submit a pull request.
 
-LICENCSE
+**LICENCSE**
 This code is licensed under the MIT License.
 
 If you have any further questions or need clarification on anything, please let me know.
