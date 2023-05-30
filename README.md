@@ -1,7 +1,7 @@
-# ***SURVEY FORM***
+# ***SURVEY FORM
 This is a simple survey form that collects user information such as name, age, gender, and feedback. The form is designed to be responsive and user-friendly.
 
-# **Getting Started**
+# Getting Started 
 
 To use this code, you will need to create a new HTML file and copy the code into it. You will also need to create the "surveystyle.css" and "simplestyle.css" files and link them to the HTML file.
 
