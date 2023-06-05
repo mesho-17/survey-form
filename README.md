@@ -1,4 +1,4 @@
-# ***SURVEY FORM
+# SURVEY FORM
 This is a simple survey form that collects user information such as name, age, gender, and feedback. The form is designed to be responsive and user-friendly.
  
 # Getting Started 
