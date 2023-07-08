@@ -6,7 +6,7 @@ This is a simple survey form that collects user information such as name, age, g
 To use this code, you will need to create a new HTML file and copy the code into it. You will also need to create the "surveystyle.css" and "simplestyle.css" files and link them to the HTML file.
 
 Here is an example of how to link the "surveystyle.css" file to the HTML file: 
-``` 
+```     
 <head>
   <link rel="stylesheet" type="text/css" href="surveystyle.css">
 </head>
